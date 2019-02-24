@@ -6,9 +6,9 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 @SpringBootApplication
 @EnableJpaAuditing
-public class EliteDangerousBackend{
+public class VIXALLaunch{
 
 	public static void main(String[] args) {
-		SpringApplication.run(EliteDangerousBackend.class, args);
+		SpringApplication.run(VIXALLaunch.class, args);
 	}
 }
